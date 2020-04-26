@@ -7,7 +7,7 @@
     <ProjectGuid>{507C78AB-E0CA-41B7-A4F0-5C625BF8D3A4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Difftwo</RootNamespace>
-    <AssemblyName>Difftwo</AssemblyName>
+    <AssemblyName>Checkisalpha</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
